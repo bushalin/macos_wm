@@ -42,3 +42,6 @@ alt - up : yabai -m window --swap north
 alt - down : yabai -m window --swap south
 alt - left : yabai -m window --swap west
 alt - right : yabai -m window --swap east
+
+
+# adding this commit to make sure that it works with multiple git account
